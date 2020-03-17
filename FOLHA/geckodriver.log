@@ -1,0 +1,168 @@
+1584195734124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePj388t"
+1584195734451	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584195734642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584195734642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584195734642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584195734642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584195735849	Marionette	INFO	Listening on port 38127
+1584195735929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584195744868	Marionette	INFO	Stopped listening on port 38127
+1584195794864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQDlaj0"
+1584195795188	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584195795382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584195795382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584195795382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584195795382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584195796525	Marionette	INFO	Listening on port 36185
+1584195796570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584195803135	Marionette	INFO	Stopped listening on port 36185
+1584195830986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUr9vHM"
+1584195831304	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584195831497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584195831497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584195831497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584195831497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584195832637	Marionette	INFO	Listening on port 38239
+1584195832690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584195839287	Marionette	INFO	Stopped listening on port 38239
+1584196055435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileauAFfB"
+1584196055760	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584196055954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584196055954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584196055954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584196055954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584196057102	Marionette	INFO	Listening on port 41691
+1584196057146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584196077206	Marionette	INFO	Stopped listening on port 41691
+1584196163693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTO9mXh"
+1584196164012	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584196164212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584196164212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584196164212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584196164212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584196165376	Marionette	INFO	Listening on port 39299
+1584196165412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584196171916	Marionette	INFO	Stopped listening on port 39299
+1584196617757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL4D87d"
+1584196618075	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584196618271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584196618272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584196618272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584196618272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584196619416	Marionette	INFO	Listening on port 40517
+1584196619464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584196625966	Marionette	INFO	Stopped listening on port 40517
+1584196857138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNyQmyl"
+1584196857452	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584196857657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584196857657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584196857657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584196857657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584196858804	Marionette	INFO	Listening on port 34737
+1584196858842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584196865305	Marionette	INFO	Stopped listening on port 34737
+1584196881019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTECyGO"
+1584196881340	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584196881542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584196881542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584196881542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584196881542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584196882687	Marionette	INFO	Listening on port 38455
+1584196882726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584196889271	Marionette	INFO	Stopped listening on port 38455
+1584197011630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXmEuM8"
+1584197011949	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584197012145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584197012145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584197012145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584197012145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584197013305	Marionette	INFO	Listening on port 41527
+1584197013338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584197019883	Marionette	INFO	Stopped listening on port 41527
+1584197186222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTzZmXN"
+1584197186539	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584197186746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584197186746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584197186747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584197186747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584197187890	Marionette	INFO	Listening on port 37249
+1584197187938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584197194326	Marionette	INFO	Stopped listening on port 37249
+1584197232501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX2W2Ic"
+1584197232824	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584197233018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584197233018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584197233018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584197233018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584197234195	Marionette	INFO	Listening on port 36249
+1584197234215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584197240659	Marionette	INFO	Stopped listening on port 36249
+1584197339166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ8T0NP"
+1584197339488	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584197339687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584197339687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584197339687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584197339687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584197340867	Marionette	INFO	Listening on port 43171
+1584197340887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584197347586	Marionette	INFO	Stopped listening on port 43171
+1584197431916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKtAb1H"
+1584197432232	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584197432441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584197432441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584197432441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584197432441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584197433627	Marionette	INFO	Listening on port 42949
+1584197433724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1584197440128	Marionette	INFO	Stopped listening on port 42949
