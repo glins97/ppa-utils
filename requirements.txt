@@ -1,0 +1,7 @@
+et-xmlfile==1.0.1
+jdcal==1.4.1
+numpy==1.19.1
+openpyxl==3.0.5
+PyDocX==0.9.10
+selenium==3.141.0
+urllib3==1.25.10
