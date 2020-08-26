@@ -19,7 +19,7 @@ def generate_csv():
     START_DATE = datetime.datetime.strptime(input("Digite data de início (DD/MM/YYYY): "), '%d/%m/%Y')
     END_DATE = datetime.datetime.strptime(input("Digite data de término (DD/MM/YYYY): "), '%d/%m/%Y')
     LOCALE = input("Unidade: ").upper()
-    driver = webdriver.Firefox()
+    driver = webdriver.Firefox(executable_path=r'C:\Users\Acer\Documents\ppa-utils\FOLHA\scripts\geckodriver.exe')
     # --------------------------------
 
     # do login -----------------------
@@ -77,7 +77,7 @@ def generate_csv():
     for line in data:
         data_str += ','.join(line) + '\n'
 
-    outpt = 'inputs/FOLHA_{}_{}-{}.csv'.format(LOCALE, number_format(START_DATE.day), number_format(START_DATE.month))
+    outpt = 'outputs/FOLHA_{}_{}-{}.csv'.format(LOCALE, number_format(START_DATE.day), number_format(START_DATE.month))
     with open(outpt, 'w') as f:
         f.write(data_str) 
     # --------------------------------

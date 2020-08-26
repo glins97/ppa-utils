@@ -166,3 +166,44 @@ JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iChe
 JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
 JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
 1584197440128	Marionette	INFO	Stopped listening on port 42949
+1598483113773	geckodriver	INFO	Listening on 127.0.0.1:55656
+1598483116862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofile6aH212"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598483119236	Marionette	INFO	Listening on port 55664
+1598483119525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/login, line 116: TypeError: $(...).iCheck is not a function
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+JavaScript error: http://webppa.ddns.net/js/app.js, line 14727: Error: Cannot find module "./components/chat/Messages"
+1598483191496	Marionette	INFO	Stopped listening on port 55664
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
