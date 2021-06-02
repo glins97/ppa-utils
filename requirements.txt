@@ -4,6 +4,6 @@ numpy==1.19.1
 openpyxl==3.0.5
 PyDocX==0.9.10
 selenium==3.141.0
-urllib3==1.25.10
+urllib3==1.26.5
 pytrello==0.17.1
 requests==2.24.0
